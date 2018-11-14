@@ -8,3 +8,5 @@ Prototpe yang dibuat pada pemebelajaran kali ini yaitu "Sobat Bola" yang mana ch
 *  Detail pertandingan 
 * Reminder untuk pertandingan yang akan datang.  
 * Detail tim dilengkapi dengan daftar dan detail para pemain
+
+![alt text](https://raw.githubusercontent.com/muhrizky/Prototype-Chatbot/master/sertifikat.png)
